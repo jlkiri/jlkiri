@@ -18,6 +18,6 @@ I am very interested in Stoicism and applying it to the modern times. You can fi
 
 ## Follow me
 
-🐦 On Twitter: https://twitter.com/virtualkirill
-💻 On Dev.to: https://dev.to/virtualkirill
-🐝 On Qiita: https://qiita.com/jlkiri
+🐦 On Twitter: https://twitter.com/virtualkirill  
+💻 On Dev.to: https://dev.to/virtualkirill  
+🐝 On Qiita: https://qiita.com/jlkiri  
