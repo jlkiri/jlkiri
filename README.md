@@ -4,7 +4,7 @@ I am [Kirill Vasiltsov](https://www.kirillvasiltsov.com/) and I am a UI develope
 Currently I'm working on the user interface of a *very popular* EC website.
 
 🛠 For my everyday tasks I use Javascript, Typescript and React  
-🧪 At the moment I am learning and experimenting with Web Animations and Rust
+🧪 At the moment I am learning and experimenting with Web Animations, Svelte and Rust
 
 ## Activity
 
