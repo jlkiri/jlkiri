@@ -1,6 +1,6 @@
 ## I am
 
-UI developer at [Yumemi](https://yumemi.co.jp/).  
+A UI developer at [Yumemi](https://yumemi.co.jp/).  
 Currently working on the user interface of a _very popular_ (NDA) e-commerce website.
 
 🛠 Daily stack: Javascript, Typescript and React  
