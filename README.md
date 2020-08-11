@@ -1,20 +1,16 @@
 ## Hello, world!
 
-I am [Kirill Vasiltsov](https://www.kirillvasiltsov.com/) and I am a UI developer at [Yumemi](https://yumemi.co.jp/).  
-Currently I'm working on the user interface of a _very popular_ EC website.
+UI developer at [Yumemi](https://yumemi.co.jp/).  
+Currently working on the user interface of a _very popular_ (NDA) e-commerce website.
 
-🛠 For my everyday tasks I use Javascript, Typescript and React  
-🧪 At the moment I am learning and experimenting with Web Animations, Svelte and Rust
+🛠 Daily stack: Javascript, Typescript and React  
+🧪 Learning and experimenting: Web Animations, Svelte and Rust
 
 ## Activity
 
 📝 I [write](https://www.kirillvasiltsov.com/writing) about things I find interesting  
-🌏 I often contribute to OSS projects and build mine (see below)  
-💪 I value open-mindedness, intellectual honesty and questioning status quo.
-
-## Non-tech
-
-I am very interested in Stoicism and applying it to the modern times. You can find some of the ideas in my blog.
+🌏 I contribute to OSS projects and build mine (see below)  
+💪 I value open-mindedness, intellectual honesty and questioning status quo
 
 ## Follow me
 
