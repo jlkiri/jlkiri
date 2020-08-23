@@ -5,7 +5,7 @@ A UI developer at [Yumemi](https://yumemi.co.jp/).
 🛠 Daily stack: Javascript, Typescript and React  
 🧪 Learning and experimenting: Web Animations, Svelte and Rust
 
-## Activity
+## What I do
 
 📝 I [write](https://www.kirillvasiltsov.com/writing) about things I find interesting  
 🌏 I contribute to OSS projects and build mine (see below)  
