@@ -13,9 +13,9 @@ A UI developer at [Yumemi](https://yumemi.co.jp/).
 
 ## You can find me on
 
-- On Twitter: https://twitter.com/virtualkirill
-- On Dev.to: https://dev.to/virtualkirill
-- On Qiita: https://qiita.com/jlkiri
+- Twitter: https://twitter.com/virtualkirill
+- Dev.to: https://dev.to/virtualkirill
+- Qiita: https://qiita.com/jlkiri
 
 ## Visitor counter:
 
