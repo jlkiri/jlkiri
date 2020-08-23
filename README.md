@@ -11,7 +11,7 @@ A UI developer at [Yumemi](https://yumemi.co.jp/).
 🌏 I contribute to OSS projects and build mine (see below)  
 💪 I value open-mindedness, intellectual honesty and questioning status quo
 
-## Follow me
+## You can find me on
 
 - On Twitter: https://twitter.com/virtualkirill
 - On Dev.to: https://dev.to/virtualkirill
