@@ -1,6 +1,6 @@
 ## I am
 
-A UI developer at [Yumemi](https://yumemi.co.jp/).  
+A UI developer at [Yumemi](https://yumemi.co.jp/).
 
 🛠 Daily stack: Javascript, Typescript and React  
 🧪 Learning and experimenting: Web Animations, Svelte and Rust
@@ -19,4 +19,4 @@ A UI developer at [Yumemi](https://yumemi.co.jp/).
 
 ## Visitor counter:
 
-<img src="https://jlkiri-readme.vercel.app/api/count" />
+<img src="https://www.kirillvasiltsov.com/.netlify/functions/counter?name=github&svg=true" />
