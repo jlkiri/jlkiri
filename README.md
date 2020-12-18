@@ -18,4 +18,4 @@ A UI developer at [Yumemi](https://yumemi.co.jp/).
 
 ## Visitor counter:
 
-<!-- <img src="https://www.kirillvasiltsov.com/.netlify/functions/counter?name=github&svg=true" /> -->
+<img src="https://www.kirillvasiltsov.com/.netlify/functions/counter?name=github&svg=true" />
