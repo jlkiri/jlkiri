@@ -27,13 +27,13 @@
                 Helvetica, Arial, sans-serif;
               background-size: 350% 350%;
               background-repeat: repeat-x;
-              background-position: 0 0;
+              background-position: 3px 0;
               animation: bg 10s infinite linear;
             }
 
             @keyframes bg {
               0% {
-                background-position: 0 0;
+                background-position: 3px 0;
               }
               100% {
                 background-position: 100% 0;
