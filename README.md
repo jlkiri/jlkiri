@@ -14,7 +14,7 @@ A UI developer at [Yumemi](https://yumemi.co.jp/).
     >
 <foreignObject width="100%" height="100%">
 
-<div class="container" xmlns="http://www.w3.org/1999/xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
 <style>
 .container {
 display: grid;
@@ -26,7 +26,7 @@ font-weight: 900;
 font-family: "Courier New", Courier, monospace;
 }
 </style>
-LOL
+<div class="container">LOL</div>
 </div>
 </foreignObject>
 </svg>
