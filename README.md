@@ -1,11 +1,11 @@
+<img src="fancy.svg" />
+
 ## I am
 
 A UI developer at [Yumemi](https://yumemi.co.jp/).
 
 🛠 Daily stack: Javascript, Typescript and React  
 🧪 Learning and experimenting: Web Animations, Svelte and Rust
-
-<img src="fancy.svg" />
 
 ## What I do
 
