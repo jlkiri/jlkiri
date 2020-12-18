@@ -13,11 +13,8 @@ A UI developer at [Yumemi](https://yumemi.co.jp/).
       xmlns="http://www.w3.org/2000/svg"
     >
 <foreignObject width="100%" height="100%">
+
 <div class="container" xmlns="http://www.w3.org/1999/xhtml">
-<script>
-document.querySelector(".container").animate({ opacity: 0 }, {
-duration: 1000, direction: "alternate", iterations: Infinity })
-</script>
 <style>
 .container {
 display: grid;
