@@ -5,31 +5,7 @@ A UI developer at [Yumemi](https://yumemi.co.jp/).
 🛠 Daily stack: Javascript, Typescript and React  
 🧪 Learning and experimenting: Web Animations, Svelte and Rust
 
-<svg
-      fill="none"
-      viewBox="0 0 800 200"
-      width="800"
-      height="200"
-      xmlns="http://www.w3.org/2000/svg"
-    >
-<foreignObject width="100%" height="100%">
-
-<div xmlns="http://www.w3.org/1999/xhtml">
-<style>
-.container {
-display: grid;
-place-items: center;
-height: 200px;
-background-color: orange;
-font-size: 5rem;
-font-weight: 900;
-font-family: "Courier New", Courier, monospace;
-}
-</style>
-<div class="container">LOL</div>
-</div>
-</foreignObject>
-</svg>
+<img src="fancy.svg" />
 
 ## What I do
 
