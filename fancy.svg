@@ -16,11 +16,16 @@
               color: rgb(255, 17, 0);
               background-image: linear-gradient(
                 110deg,
-                #0d1117,
-                #0d1117 33%,
-                white 33.1%,
-                white 66%,
-                #0d1117 66.1%
+                #0d1117 0%,
+                #0d1117 20%,
+                white 20.05%,
+                white 40%,
+                #0d1117 40.05%,
+                #0d1117 60%,
+                white 60.05%,
+                white 80%,
+                #0d1117 80%,
+                #0d1117 100%
               );
               font-size: 2.2rem;
               font-weight: 900;
@@ -29,7 +34,7 @@
               background-size: 350% 350%;
               background-repeat: repeat-x;
               background-position: 3px 0;
-              animation: bg 10s infinite linear;
+              animation: bg 40s infinite linear;
             }
 
             @keyframes bg {
@@ -37,7 +42,7 @@
                 background-position: 3px 0;
               }
               100% {
-                background-position: 100% 0;
+                background-position: 201% 0;
               }
             }
           </style>
