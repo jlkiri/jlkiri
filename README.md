@@ -2,7 +2,7 @@
 
 ## I am
 
-A UI developer at [Yumemi](https://yumemi.co.jp/).
+A software engineer at [Yumemi](https://yumemi.co.jp/).
 
 ## What I do
 
