@@ -26,15 +26,6 @@
             @media (prefers-color-scheme: light) {
               .container   { background-color: white; color: #0d1117; }
             }
-
-            @keyframes bg {
-              0% {
-                background-position: 3px 0;
-              }
-              100% {
-                background-position: 201% 0;
-              }
-            }
           </style>
           Hi!
         </div>
