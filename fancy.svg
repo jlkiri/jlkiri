@@ -11,30 +11,20 @@
             .container {
               display: grid;
               place-items: center;
-              width: 101%;
               height: 200px;
-              color: rgb(255, 17, 0);
-              background-image: linear-gradient(
-                110deg,
-                #0d1117 0%,
-                #0d1117 20%,
-                white 20.05%,
-                white 40%,
-                #0d1117 40.05%,
-                #0d1117 60%,
-                white 60.05%,
-                white 80%,
-                #0d1117 80%,
-                #0d1117 100%
-              );
               font-size: 2.2rem;
               font-weight: 900;
               font-family: system-ui, -apple-system, "Segoe UI", Roboto,
                 Helvetica, Arial, sans-serif;
-              background-size: 350% 350%;
-              background-repeat: repeat-x;
-              background-position: 3px 0;
-              animation: bg 40s infinite linear;
+              transition: background-color 200ms;
+            }
+
+            @media (prefers-color-scheme: dark) {
+              .container   { background-color: #0d1117; color: white; }
+            }
+
+            @media (prefers-color-scheme: light) {
+              .container   { background-color: white; color: #0d1117; }
             }
 
             @keyframes bg {
@@ -46,7 +36,7 @@
               }
             }
           </style>
-          Fancy animated banner
+          Hi!
         </div>
       </foreignObject>
     </svg>
