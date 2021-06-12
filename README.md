@@ -13,7 +13,3 @@ A software engineer at [Yumemi](https://yumemi.co.jp/).
 - Twitter: https://twitter.com/virtualkirill
 - Dev.to: https://dev.to/virtualkirill
 - Qiita: https://qiita.com/jlkiri
-
-## Visitor counter:
-
-<img src="https://www.kirillvasiltsov.com/.netlify/functions/counter?name=github&svg=true" />
