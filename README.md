@@ -1,5 +1,3 @@
-<img src="fancy.svg" />
-
 ## I am
 
 A software engineer at [Yumemi](https://yumemi.co.jp/).
