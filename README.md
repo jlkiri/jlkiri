@@ -1,6 +1,6 @@
 ## I am
 
-A software engineer at [Progate](https://yumemi.co.jp/).
+A software engineer at [Progate](https://progate.com/).
 
 ## What I do
 
