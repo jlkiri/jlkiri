@@ -12,6 +12,7 @@ A software engineer at [Progate](https://progate.com/).
 
 ☁️ Anything related to cloud & platform engineering  
 🌎 Networks, making machines talk to each other
+📦 Containers, sandboxes, microVMs and WASM
 
 ## You can find me on
 
